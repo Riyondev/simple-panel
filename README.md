@@ -10,6 +10,9 @@
 
 > **Note:** This Project is still under development. You can also contribute to this project.
 
+
+<img src="./assets/images/screenshot.png" alt="screenshot">
+
 ## 🚀 How to Use
 
 ### 1. **Start a PHP Server**
