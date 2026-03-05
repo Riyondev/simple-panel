@@ -68,6 +68,6 @@
 
     <div class="sidebar-footer">
         <i class="fas fa-cloud"></i>
-        <span>node active • 2.31 GB / 8 GB</span>
+        <span>Storage • 2.31 GB / 8 GB</span>
     </div>
 </aside>
