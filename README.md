@@ -1,10 +1,14 @@
-<center><img src="./assets/images/simple-panel-logo-white-bg.png" alt="logo" width="250px"></center>
+<div align="center">
 
-<center><b>Fast. Simple. Powerful Hosting Control.</b></center>
+![logo](./assets/images/simple-panel-logo-no-bg-white.png)
 
-<br>
+**Fast. Simple. Powerful Hosting Control.**
 
-| Note: This Porject is still under developmet. You can also contribute to this project.
+</div>
+
+---
+
+> **Note:** This Project is still under development. You can also contribute to this project.
 
 ## 🚀 How to Use
 
